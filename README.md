@@ -10,7 +10,7 @@
 
 🤝 Looking for guidance on: Advanced TypeScript patterns, NestJS
 
-🌱 Currently learning: NestJS, PostgreSQL
+🌱 Currently learning: NextJS, PostgreSQL
 
 💬 Ask me about: React.js, JavaScript, frontend performance, accessibility (WCAG)
 
